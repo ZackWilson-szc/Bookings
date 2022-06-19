@@ -3,9 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/darius/bookings/pkg/config"
-	"github.com/darius/bookings/pkg/models"
-	"github.com/darius/bookings/pkg/renders"
+	"github.com/darius/bookings/internal/config"
+	"github.com/darius/bookings/internal/models"
+	"github.com/darius/bookings/internal/renders"
 	"log"
 	"net/http"
 )

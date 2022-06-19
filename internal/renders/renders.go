@@ -3,8 +3,8 @@ package renders
 import (
 	"bytes"
 	"fmt"
-	"github.com/darius/bookings/pkg/config"
-	"github.com/darius/bookings/pkg/models"
+	"github.com/darius/bookings/internal/config"
+	"github.com/darius/bookings/internal/models"
 	"github.com/justinas/nosurf"
 	"html/template"
 	"log"
